@@ -1,0 +1,15 @@
+section {
+  max-width: 600px;
+}
+
+.g_to_interact {
+  fill: lightblue;
+}
+
+#Shadow_Image {
+  pointer-events: none;
+}
+
+path {
+  stroke-width: 2;
+}
